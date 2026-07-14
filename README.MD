@@ -12,8 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+    src="https://github.com/Rossispike/prompts-recipe-to-create-a-ebook/blob/main/assets/O%20C%C3%B3digo%20da%20For%C3%A7a.png"  
 />
 </p>
 
