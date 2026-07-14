@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://dio.me/"><img src="https://github.com/Rossispike/prompts-recipe-to-create-a-ebook/blob/main/assets/O%20C%C3%B3digo%20da%20For%C3%A7a.png>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
